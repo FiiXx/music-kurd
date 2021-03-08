@@ -35,4 +35,4 @@ fs.readdir("./commands/", (err, files) => {
 });
 
 //Logging in to discord
-client.login(process.env.TOKEN)
+client.login(process.env.TOKEN ODE4NDY4ODM0MDIxMDgxMDk4.YEYggA._xwpd2HGiLi1xEK64wgd_JMuO2k)
