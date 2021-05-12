@@ -16,11 +16,11 @@
   "env": {
     "TOKEN": {
       "description": "The token copied in the first section.",
-      "required": "true"
+      "required": "ODQxODU4ODU0MjU3MTY0MzE4.YJs4Jw.0h1Vul4jCIknc9nf87RnTG332DI"
     },
     "PREFIX": {
       "description": "The prfix you want to use with the bot.",
-      "value": "!"
+      "value": "$"
     },
     "SOUNDCLOUD_CLIENT_ID": {
       "description": "The client id of soundcloud.",
